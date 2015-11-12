@@ -1,32 +1,35 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
-    body{
-        height: 100%;
-        width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-    .center{
-        text-align: center;
-    }
-    .large{
-        background-color: #F2F1EF;
-        height: 300px;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        position: absolute;
-        z-index: 2;
-    }
-    .spacer{
-        top: 300px;
-        background-color: #F9BF3B;
-        height: 200px;
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        position: absolute;
-
-    }
-    h1{
-        font-family: 'Oswald', sans-serif;
-    }
+body{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+.large{
+    background-color: #F2F1EF;
+    height: 300px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+}
+.schoolName{
+    font-size: 35px;
+    color: #ECECEC;
+}
+.spacer{
+    top: 300px;
+    background-color: #F9BF3B;
+    height: 200px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
