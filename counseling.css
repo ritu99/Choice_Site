@@ -1,12 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>
-		Counseling
-	</title>
-    <style>
-    @import 'https://fonts.googleapis.com/css?family=Oswald:400,300';
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
     body{
         height: 100%;
         width: 100%;
@@ -38,16 +30,3 @@
     h1{
         font-family: 'Oswald', sans-serif;
     }
-    </style>
-</head>
-<body>
-<div class="large">
-    <h1 class="center clearfix">ayy lmao</h1>
-</div>
-<div class="spacer">
-    <h1 class="center clearfix">ayy lmao</h1>
-</div>
-
-
-</body>
-</html>
