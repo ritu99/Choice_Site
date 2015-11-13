@@ -1,48 +1,29 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 body{
     background-color: #f3f4f8;
+    font-family: 'Oswald', sans-serif;
 }
 .center{
     text-align: center;
 }
-.large{
-    background-color: #F2F1EF;
-    height: 300px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    z-index: 2;
-}
 .schoolName{
     font-size: 60px;
-    color: gray;
-}
-.spacer{
-    top: 300px;
-    background-color: #F9BF3B;
-    height: 200px;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    position: absolute;
+    color: #F9BF3B;
 }
 h1{
     font-family: 'Oswald', sans-serif;
 }
+h2{
+    font-size: 70px;
+    color: black;
+}
+p{
+    color: gray;
+}
+ul li{
+    color: gray;
+}
 
-.imgRight{
-    float: right;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    word-wrap: break-word;
-}
-.imgLeft{
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    word-wrap: break-word;
-}
 div#wrapper{
     background-color: #fafafa;
     padding: 20px;
@@ -63,43 +44,3 @@ a:visited{
 a:active{
     background-color: black;
 }
-/*navigation menu styles*/
-div#skipnav{
-    top: 5px;
-    left: 5px;
-    position: absolute;
-    right: 50%;
-}
-div#ul_3 {
-                top: 5px;
-                left: 150px;
-                position: absolute;
-                right: 5px;
-                max-width: 10000px; /* for  below IE7 use `width: 660px;` */
-                margin: 0 auto;
-        }
-        /*Navigation Menu Styles*/
-        div#ul_3 ul {
-                list-style-type: none;
-        }
-        div#ul_3 ul li {
-                float: left;
-                margin-right: 5px;
-                width: 15%;
-        }
-        div#ul_3 ul li a {
-                padding: 0.25em 1em;
-                text-decoration: none;
-                background-color: #EBF5FF; /*pale blue*/
-                color: #4312AE; /*dark blue*/
-                border: 2px solid black;
-                border-top-left-radius: 1em 1em; /*rounded corners*/
-                border-top-right-radius: 1em 1em;
-                border-bottom-left-radius: 1em 1em;
-                border-bottom-right-radius: 1em 1em;
-        }
-        div#ul_3 ul li a: hover, div#ul_3 ul li a:focus {
-                color: black;
-                background-color: white;
-                font-weight: bold;
-        }
