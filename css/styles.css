@@ -50,8 +50,8 @@ h5 {
 
 .btn:hover, .btn:focus {
   color: #fff;
-  border-color: #FFEF98;
-  background-color: #FFEF98; }
+  border-color: #F9BF3B;
+  background-color: #F9BF3B; }
 
 .btn-white {
   font-size: 13px;
@@ -61,21 +61,21 @@ h5 {
   border-color: #fff; }
 
 .btn-white:hover, .btn-white:focus {
-  color: #FFEF98;
-  border-color: #FFEF98; }
+  color: #F9BF3B;
+  border-color: #F9BF3B; }
 
 .btn-fill {
   color: #fff;
-  border: solid 2px #FFEF98;
+  border: solid 2px #F9BF3B;
   border-radius: 40px;
   display: inline-block;
   text-transform: uppercase;
-  background-color: #FFEF98; }
+  background-color: #F9BF3B; }
 
 .btn-fill:hover, .btn-fill:focus {
   color: #fff;
-  background-color: #FFEF98;
-  border-color: #FFEF98; }
+  background-color: #F9BF3B;
+  border-color: #F9BF3B; }
 
 .btn-small {
   padding: 8px 40px; }
@@ -107,7 +107,7 @@ Global Styles
   margin: 0; }
 
 a {
-  color: #FFEF98;
+  color: #F9BF3B;
   -webkit-transition-timing-function: ease;
   transition-timing-function: ease;
   -webkit-transition-duration: 200ms;
@@ -116,7 +116,7 @@ a {
   transition-property: color, border-color, background-color; }
 
 a:hover, a:focus {
-  color: #FFEF98;
+  color: #F9BF3B;
   text-decoration: none; }
 
 body {
@@ -411,7 +411,7 @@ header {
         color: #fff;
         padding-right: 25px; }
         header ul.primary-nav li a:hover {
-          color: #FFEF98; }
+          color: #F9BF3B; }
       header ul.primary-nav li:last-child a {
         padding-right: 0px; }
   header ul.member-actions li {
@@ -419,7 +419,7 @@ header {
     header ul.member-actions li a {
       color: #fff; }
       header ul.member-actions li a:hover {
-        color: #FFEF98; }
+        color: #F9BF3B; }
   header .header-nav {
     display: inline-block; }
   header .member-actions {
@@ -444,7 +444,7 @@ Intro
 ========================================================================== */
 .intro span.icon {
   font-size: 40px;
-  color: #FFEF98;
+  color: #F9BF3B;
   font-weight: bold; }
 
 .intro-icon {
@@ -470,7 +470,7 @@ Features-stack
     margin: 0 0 20px 0; }
   .features span.icon {
     font-size: 35px;
-    color: #FFEF98;
+    color: #F9BF3B;
     font-weight: bold; }
   .features .feature-icon {
     display: inline-block;
@@ -689,7 +689,7 @@ Sign up form
   text-align: left;
   position: relative; }
   .sign-up .signup-form .form-input-group i {
-    color: #FFEF98;
+    color: #F9BF3B;
     font-size: 14px; }
   .sign-up .signup-form .form-input-group i:after {
     content: "";
@@ -771,7 +771,7 @@ footer {
   footer a {
     color: #fff; }
   footer a:hover {
-    color: #FFEF98; }
+    color: #F9BF3B; }
   footer ul.footer-group {
     border-top: solid 1px #4E566C;
     padding-top: 25px;
@@ -782,7 +782,7 @@ footer {
     font-size: 13px;
     text-transform: uppercase; }
   footer ul.footer-group li a:hover {
-    color: #FFEF98; }
+    color: #F9BF3B; }
   footer ul.footer-group li {
     margin-right: 30px; }
   footer ul.footer-group li:last-child {
