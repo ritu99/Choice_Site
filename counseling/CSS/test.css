@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*css document created by Athul*/
+body {
+	Margin-top: 30px;
+	background-color:red;
+	font-family:Arial,Helvetica, sans-serif;
+	}
+#box{
+	border : dashed green 4px;
+	padding: 0px 70px;
+	width: 400px;
+	height: 500px;
+	background-color: white;
+	margin: 0 auto;
+	color: red;
+	}
+h1{
+	color: green;
+	font-family: "Courier New",Courier, monospace;
+	text-align:center;
+	}
