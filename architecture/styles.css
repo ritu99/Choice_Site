@@ -1,3 +1,51 @@
 .model{
   margin: 20px;
 }
+body{
+    background-color: #f3f4f8;
+    font-family: 'Oswald', sans-serif;
+}
+.center{
+    text-align: center;
+}
+.schoolName{
+    font-size: 60px;
+    color: #F9BF3B;
+    font-family: 'Oswald', sans-serif;
+}
+h3{
+    font-size: 30px;
+    color: #48525C;
+}
+h4{
+    color: #A9A9A9;
+    font-size: 20px;
+}
+p{
+    color: #708090;
+    font-size: 20px;
+}
+ul li{
+    color: gray;
+}
+
+div#wrapper{
+    background-color: #fafafa;
+    padding: 20px;
+    width: 1200px;
+    margin: auto;
+    word-wrap: break-word;
+}
+a:link{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: gray;
+}
+a:visited{
+    color: gray;
+}
+a:active{
+    background-color: black;
+}
